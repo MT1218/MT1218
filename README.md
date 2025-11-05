@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://github.com/MT1218">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MT1218&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=1800" alt="MT1218"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MT1218&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=1800&hide=html,css,scss" alt="MT1218"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MT1218&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=1800" alt="MT1218"/>
   </a>
 </div>
