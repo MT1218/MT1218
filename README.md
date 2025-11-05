@@ -10,7 +10,7 @@
 - :school: I am a 3rd year student studying Software Engineering and Cyber Security.
 - :technologist: I've been in love with programming ever since I was 15, when I made my first calculator program in Python.
 - :computer: I like to participate in Capture the Flag (CTF) events with my university club.
-- :student: I’m currently learning about Cloud Computing, particularly Microsoft Azure.
+- :student: I'm currently learning about Cloud Computing, particularly Microsoft Azure.
 - :boom: You can see my latest CTF writeups and project details on my [website](https://mt1218.github.io).
 <br>
 
@@ -20,10 +20,11 @@
 
 <div align="center">
   <a href="https://github.com/MT1218">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MT1218&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="MT1218"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MT1218&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="MT1218"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MT1218&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=1800" alt="MT1218"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MT1218&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=1800" alt="MT1218"/>
   </a>
 </div>
+
 <p align="center">
   <a href="https://github.com/MT1218">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MT1218&&theme=tokyonight" alt="MT1218" />
