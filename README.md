@@ -7,7 +7,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-- :school: I am a 3rd year student studying Software Engineering and Cyber Security.
+- :school: I am a 4th year student studying Software Engineering and Cyber Security.
 - :technologist: I've been in love with programming ever since I was 15, when I made my first calculator program in Python.
 - :computer: I like to participate in Capture the Flag (CTF) events with my university club.
 - :student: I'm currently learning about Cloud Computing, particularly Microsoft Azure.
